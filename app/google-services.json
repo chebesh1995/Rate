@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "241805648375",
+    "firebase_url": "https://rateapp-1806f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rateapp-1806f",
+    "storage_bucket": "rateapp-1806f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241805648375:android:3a57d3c2c8df90b2c8cef2",
+        "android_client_info": {
+          "package_name": "com.example.rate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSzHztQsuV9jv4UsrvJcnH9Q40QH2yok8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

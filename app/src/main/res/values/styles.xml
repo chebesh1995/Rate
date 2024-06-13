@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextInputLayoutStyleGrayNoArrow" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#234C51</item>
+        <item name="boxStrokeWidthFocused">1dp</item>
+        <item name="endIconTint">#234C51</item>
+        <item name="colorError">#234C51</item>
+        <item name="errorTextColor">#234C51</item>
+        <item name="errorEnabled">true</item>
+        <item name="boxStrokeErrorColor">#234C51</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColorHint">#234C51</item>
+        <item name="hintTextColor">#234C51</item>
+        <item name="materialThemeOverlay">@style/TextInputEditTextStyle</item>
+        <item name="colorControlActivated">#234C51</item>
+        <item name="boxCornerRadiusBottomEnd">10dp</item>
+        <item name="boxCornerRadiusBottomStart">10dp</item>
+        <item name="boxCornerRadiusTopEnd">10dp</item>
+        <item name="boxCornerRadiusTopStart">10dp</item>
+        <item name="colorContainer">#234C51</item>
+        <item name="android:elevation">10dp</item>
+    </style>
+
+    <style name="TextInputEditTextStyle" parent="ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="colorControlActivated">#234C51</item>
+    </style>
+</resources>
