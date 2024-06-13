@@ -71,7 +71,7 @@ class UserAdapter(
             holder.personalDataLl.visibility = View.GONE
         } else {
             holder.lastMessageLl.visibility = View.GONE
-        }
+        }//
 
         if (isChatCheck) {
             if (user.status == "online") {
